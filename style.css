@@ -1,0 +1,28 @@
+body{
+    background-image: url(goodvibes3.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+form{
+    background-color: azure;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+div{
+    margin-bottom: 10px;
+}
